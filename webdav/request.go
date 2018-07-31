@@ -3,8 +3,8 @@ package webdav
 import (
 	"bytes"
 	"encoding/xml"
-	"github.com/taviti/caldav-go/http"
-	"github.com/taviti/caldav-go/utils"
+	"github.com/b3rsrk/caldav-go/http"
+	"github.com/b3rsrk/caldav-go/utils"
 	"io"
 	"io/ioutil"
 	"log"

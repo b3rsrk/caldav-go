@@ -1,8 +1,8 @@
 package components
 
 import (
-	"github.com/taviti/caldav-go/icalendar/values"
-	"github.com/taviti/caldav-go/utils"
+	"github.com/b3rsrk/caldav-go/icalendar/values"
+	"github.com/b3rsrk/caldav-go/utils"
 	"time"
 )
 

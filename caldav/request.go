@@ -2,10 +2,10 @@ package caldav
 
 import (
 	"bytes"
-	"github.com/taviti/caldav-go/http"
-	"github.com/taviti/caldav-go/icalendar"
-	"github.com/taviti/caldav-go/utils"
-	"github.com/taviti/caldav-go/webdav"
+	"github.com/b3rsrk/caldav-go/http"
+	"github.com/b3rsrk/caldav-go/icalendar"
+	"github.com/b3rsrk/caldav-go/utils"
+	"github.com/b3rsrk/caldav-go/webdav"
 	"io"
 	"io/ioutil"
 	"log"

@@ -2,8 +2,8 @@ package entities
 
 import (
 	"encoding/xml"
-	"github.com/taviti/caldav-go/caldav/values"
-	"github.com/taviti/caldav-go/icalendar/properties"
+	"github.com/b3rsrk/caldav-go/caldav/values"
+	"github.com/b3rsrk/caldav-go/icalendar/properties"
 )
 
 // a CalDAV query filter entity

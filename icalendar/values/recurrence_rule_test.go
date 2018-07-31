@@ -2,8 +2,8 @@ package values
 
 import (
 	"fmt"
-	"github.com/taviti/caldav-go/icalendar"
-	. "github.com/taviti/check"
+	"github.com/b3rsrk/caldav-go/icalendar"
+	. "github.com/b3rsrk/check"
 	"log"
 	"testing"
 	"time"
